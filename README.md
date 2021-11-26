@@ -12,5 +12,5 @@
 - 🌱 Заростки языков `Java, TypeScript`
 - 🤔 Желаю выучить `HTML, CSS, VUE`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seira-code&count_private=true&theme=tokyonight)
+![seira's GitHub stats](https://github-readme-stats.vercel.app/api?username=seira-code&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seira-code&layout=compact&theme=tokyonight)
